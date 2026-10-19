@@ -1,0 +1,4 @@
+#include <windows.h>
+1 ICON "app.ico"
+101 RCDATA "remote_backup.py"
+102 RCDATA "HELP.txt"
